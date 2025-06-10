@@ -9,7 +9,7 @@ Here are some of the technologies and tools I enjoy working with:
 
 Frontend: Flutter, React.js
 
-Backend: Node.js, Python (Flask)
+Backend: Python (Flask)
 
 Databases: MongoDB, MySQL
 
